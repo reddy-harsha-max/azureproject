@@ -1,0 +1,9 @@
+{
+	"name": "adfprojectharsh",
+	"location": "westus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "018478d9-7a5a-4de3-aedd-a802a962788f",
+		"tenantId": "de0eb862-fc54-47c7-bf31-8c57fea174f5"
+	}
+}
